@@ -43,3 +43,8 @@ dist/
 
 # Generated receipts/reports
 generated/
+# Generated sale PDFs
+SALE-*.pdf
+
+# Editor/temporary backups
+*.bak
